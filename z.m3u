@@ -1,0 +1,212 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",RTVS Jednotka HD
+https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",RTVS Dvojka HD
+https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",RTVS Trojka HD
+https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",RTVS 24 HD
+https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",RTVS Sport HD
+https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=6
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",RTVS Parlamentne Vysielanie HD
+https://yoink-that-stv-oiftjm6nmjwe.runkit.sh/?x=5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Press NRSR Parlament HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://youtu.be/MUQAp1tvZEE/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",JOJ HD
+https://nn.geo.joj.sk/hls/joj-720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",JOJ Plus HD
+https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",WAU HD
+https://nn.geo.joj.sk/hls/wau-540.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",TA3 HD
+https://get-a-flippin-ta3-url-dss6dgprdpjf.runkit.sh/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Senzi HD
+http://lb.streaming.sk/senzi/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",TV LUX HD
+https://stream.tvlux.sk/lux/ngrp:lux.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",CS Film
+http://platin4k.eu:80/eagleiptv/SsFAljPDDi/115467
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",CT 1 FHD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31835?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",CT 2 FHD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31834?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",CT 24 FHD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31833?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",CT Sport FHD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31832?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Canal+ Sport 1 FHD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/348087?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Canal+ Sport 2 FHD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/348088?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Canal+ Sport 3 FHD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/348089?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Canal+ Sport 4 FHD
+https://list.iptvcat.com/my_list/s/d1c6cafe9e7b41e9f3fad87e9b4d19c1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Canal+ Sport 5 FHD
+https://list.iptvcat.com/my_list/s/145a79c81fb6246d7a5328156f16df89.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Canal+ Sport 6 FHD
+https://list.iptvcat.com/my_list/s/875c9b4dd0c5c542af57652ac35821a0.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Canal+ Sport 7 FHD
+https://list.iptvcat.com/my_list/s/fc8c835c8aa76386d644f1fc5c9fd039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Nova HD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31828?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Nova International HD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31827?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Nova Gold HD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31829?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Nova Cinema HD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31830?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Nova Action HD
+http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/31831?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Regionalna TV 1 - LocAll Tornala
+http://tv.geniusnet.sk:8081/localltv/pl.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Regionalna TV 2 - TV Nove Zamky
+http://s1.media-planet.sk/live/novezamky/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Regionalna TV 3 - TV Reduta Spisska Nova Ves
+https://5ca49f2417d90.streamlock.net/live/reduta/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Regionalna TV 4 - TV Ruzinov FHD
+http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Euronews ENGLISH
+http://95.154.197.48/tsstreamer/EuronewsEngLDAI_SD.ts?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Euronews RUSSIAN
+http://95.154.197.48/tsstreamer/EuronewsRusLDAI_SD.ts?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Euronews GERMAN
+https://euronews.alteox.app/hls/de_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Euronews HUNGARIAN
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/euronewsHungarian/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Euronews ITALIAN
+https://euronews.alteox.app/hls/it_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Euronews PORTUGESE
+https://euronews.alteox.app/hls/pt_stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",CNBC Europe SD
+http://ott-cdn.ucom.am/s65/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",CNN International FHD
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",NASA TV FHD
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Al Jazeera English HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeeraenglish/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Bahrain International HD
+http://185.105.4.106:1935/live/Bahrain+International/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Rossiya 24
+http://uiptv.do.am/1ufc/000000006/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Pervyj Kanal Eurasia
+http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",RTR Planeta HD
+http://ott-cdn.ucom.am/s15/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",1+1 UA HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",BELSAT NEWS HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=2O5n1sULEtQ/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",KCTV North Korea SD
+https://tv.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",3ABN VATICAN HD
+https://3abn-live.akamaized.net/hls/live/2010544/International/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",M1 Europe HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=5zcjLN_Nejs/live
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",AMC HU HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/73567?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",RTL Klub HD
+https://stream.y5.hu/stream/stream_rtlklub/hls1/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",RTL II HD
+https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Cool TV HD
+https://stream.y5.hu/stream/stream_cool/hls1/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",RTL Gold
+https://stream.y5.hu/stream/stream_rtlgold/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Film Plusz HD
+https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",RTL + HD
+https://stream.y5.hu/stream/stream_rtlp/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Sorozat +
+https://stream.y5.hu/stream/stream_sorozatp/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",TV7 Bekescsaba
+https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Fuzesabony TV
+https://stream.unrealhosting.hu:443/hls/ftv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Ozdi VTV
+https://stream.unrealhosting.hu:443/hls/ozdtv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",SRo 1 - Radio Slovensko
+http://live.slovakradio.sk:8000/Slovensko_256.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",SRo 2 - Radio Regina BA Zapad
+http://live.slovakradio.sk:8000/Regina_BA_256.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",SRo 2 - Radio Regina BB Stred
+http://live.slovakradio.sk:8000/Regina_BB_256.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",SRo 2 - Radio Regina KE Vychod
+http://live.slovakradio.sk:8000/Regina_KE_256.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",SRo 3 - Radio Devin
+http://live.slovakradio.sk:8000/Devin_256.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",SRo 4 - Radio FM
+http://live.slovakradio.sk:8000/FM_256.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",SRo 5 - Patria Radio
+http://live.slovakradio.sk:8000/Patria_128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",SRo 6 - Radio Slovakia International
+http://live.slovakradio.sk:8000/RSI_256.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",SRo 7 - Radio Pyramida
+http://live.slovakradio.sk:8000/Pyramida_256.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",SRo 8 - Radio Litera
+http://live.slovakradio.sk:8000/Litera_256.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",SRo 9 - Radio Junior
+http://live.slovakradio.sk:8000/Junior_256.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Fun Radio
+https://funradio.studparl.tk/fun128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Europa 2
+https://stream.bauermedia.sk/europa2.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Radio Expres
+https://stream.expres.sk/128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Radio Melody
+https://stream.bauermedia.sk/melody-hi.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Radio Kosice
+http://stream.alternet.sk:8000/radiokosice-128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Bratislavske Radio
+https://solid1.streamupsolutions.com/proxy/lesgqyll/BAradio
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",BB FM
+https://stream.bbfm.sk/bbfm256.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",MR 1 - Kossuth radio
+https://icast.connectmedia.hu/4726/mr1ex.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",MR 2 - Petofi radio
+http://mr-stream.mediaconnect.hu/4738/mr2.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",MR 3 - Bartok radio
+http://mr-stream.connectmedia.hu/4741/mr3.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Radio 1
+https://icast.connectmedia.hu/5202/live.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Karc FM
+http://n10a-eu.rcs.revma.com/wevb267khf9uv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Retro Radio
+http://icast.connectmedia.hu/5001/live.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",CRo 1 - Radiozurnal
+https://rozhlas.stream/radiozurnal_mp3_128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",CRo 2 - Dvojka
+https://rozhlas.stream/dvojka_mp3_128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",CRo 3 - Vltava
+https://rozhlas.stream/vltava_mp3_256.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",CRo 4 - Plus
+http://rozhlas.stream/plus_mp3_128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",CRo Wave
+https://rozhlas.stream/wave_mp3_256.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Radio Impuls
+http://icecast5.play.cz:8000/impuls128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Frekvence 1 CZ
+http://ice.actve.net/fm-frekvence1-128
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",OE 1
+http://orf-live.ors-shoutcast.at/oe1-q1a
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",OE 3
+http://orf-live.ors-shoutcast.at/oe3-q1a
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Kronehit
+http://secureonair.krone.at/kronehit.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Antenne Steiermark
+https://live.antenne.at/as
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",BBC World Service - Non-UK
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/
+dash_low/aks/bbc_world_service.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Vesti FM
+http://188.93.129.110:8000/fmVesti
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Radio Mayak
+http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Vesti FM - Retranslaciya Kaliningrad
+https://stream.expres.sk/128.mp3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Voice of America - South Balkan
+https://stream.radiojar.com/t2n88q0st5quv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Slovak" tvg-logo="" tvg-country="SK" tvg-url="" group-title="TurmetieMedia",Voice of America - Washington DC
+https://voa-28.akacast.akamaistream.net/7/54/322040/v1/ibb.akacast.akamaistream.net/voa-28
