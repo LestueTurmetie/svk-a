@@ -12,13 +12,13 @@ Zoznam Televíznych a Rádiových kanálov (viacjazyčné - SK/HU/EN) [tu - .PDF
 
 Zoznam Televíznych a Rádiových kanálov (viacjazyčné - SK/HU/EN) [tu - .TXT](https://github.com/LestueTurmetie/a/blob/main/program.txt)
 
-- 🚀 [Ako používať schránku repo?](#how-to-use)
+- 🚀 [Ako používať schránku repo?](#ako-používať-schránku-repo)
 - 📺 [Playlisty](#playlisty)
-- 🗄 [Databáza](#databaza)
+- 🗄 [Databáza](#databáza)
 - 📚 [Zdroje](#zdroje)
 - 💬 [Diskusia](#diskusia)
-- 🛠 [Príspevky nových staníc](#prispevky)
-- ⚖ [Legálne informácie](#legalne-informacie)
+- 🛠 [Príspevky nových staníc](#príspevky-nových-staníc)
+- ⚖ [Legálne informácie](#legálne-informácie)
 - © [Licencie](#licencie)
 
 ## Ako používať schránku repo?
