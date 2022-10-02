@@ -1,6 +1,6 @@
 # AZ LestueMedia - Streaming source of IPTV channels in San Brusslav
 
-(https://github.com/iptv-org/iptv/actions/workflows/auto-update.yml)
+[![auto-update](https://github.com/iptv-org/iptv/actions/workflows/auto-update.yml/badge.svg)]
 
 Streaming platform of many TV and Radio stations from all over the world to San Brusslav.
 
