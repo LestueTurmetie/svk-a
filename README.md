@@ -1,82 +1,76 @@
-# AZ LestueMedia - Streaming source of IPTV channels in San Brusslav
+# AZ LestueMedia - Streamovací zdroj IPTV kanálov Republiky San Brusslav
 
 ![auto-update](https://github.com/iptv-org/iptv/actions/workflows/auto-update.yml/badge.svg)
 
-Streaming platform of many TV and Radio stations from all over the world to San Brusslav.
+Streamovací zdroj mnohých Televíznych a Rádiových kanálov z celého sveta do San Brusslavu.
 
-## Table of contents
+## Zoznam obsahov
 
-List of TV and Radio channels (multilingual - SK/HU/EN) [here - .DOCX](https://github.com/LestueTurmetie/a/blob/main/program.docx)
+Zoznam Televíznych a Rádiových kanálov (viacjazyčné - SK/HU/EN) [tu - .DOCX](https://github.com/LestueTurmetie/a/blob/main/program.docx)
 
+Zoznam Televíznych a Rádiových kanálov (viacjazyčné - SK/HU/EN) [tu - .PDF](https://github.com/LestueTurmetie/a/blob/main/program.pdf)
 
-List of TV and Radio channels (multilingual - SK/HU/EN) [here - .PDF](https://github.com/LestueTurmetie/a/blob/main/program.pdf)
+Zoznam Televíznych a Rádiových kanálov (viacjazyčné - SK/HU/EN) [tu - .TXT](https://github.com/LestueTurmetie/a/blob/main/program.txt)
 
-List of TV and Radio channels (multilingual - SK/HU/EN) [here - .TXT](https://github.com/LestueTurmetie/a/blob/main/program.txt)
+- 🚀 [Ako používať schránku repo?](#how-to-use)
+- 📺 [Playlisty](#playlisty)
+- 🗄 [Databáza](#databaza)
+- 📚 [Zdroje](#zdroje)
+- 💬 [Diskusia](#diskusia)
+- 🛠 [Príspevky nových staníc](#prispevky)
+- ⚖ [Legálne informácie](#legalne-informacie)
+- © [Licencie](#licencie)
 
-- 🚀 [How to use?](#how-to-use)
-- 📺 [Playlists](#playlists)
-- 🗄 [Database](#database)
-- 📚 [Resources](#resources)
-- 💬 [Discussions](#discussions)
-- 🛠 [Contribution](#contribution)
-- ⚖ [Legal](#legal)
-- © [License](#license)
+## Ako používať schránku repo?
 
-## How to use?
-
-Simply insert one of the links below into [any video player](https://github.com/iptv-org/awesome-iptv#apps) that supports live streaming and press _Open_ or _Stream_.
-(CTRL+N in VLC)
+Jednoducho vložte jeden z nižšie uvedených odkazov do [akýkoľvek videoprehrávaču](https://github.com/iptv-org/awesome-iptv#apps) ktorý podporuje živé vysielanie a stlačte _Open_ (Otvoriť) alebo _Stream_.
+(CTRL+N vo VLC)
 
 ![VLC Network Panel](https://github.com/iptv-org/iptv/raw/master/.readme/preview.png)
 
-## Playlists
+## Playlisty
 
-Playlists will be soon expanded, due to high user request.
+Playlisty budú čoskoro rozšírené z dôvodu vysokej požiadavky používateľov.
 
-### Main playlist
+### Hlavný playlist
 
-Playlist includes all channels from the main package bundle of AZ LestueMedia except adult channels, which are prohibited by law in San Brusslav.
+Zoznam skladieb obsahuje všetky kanály z hlavného balíka AZ LestueMedia.
 
-Here is the version to copy to your player:
+Tu je verzia na skopírovanie do prehrávača:
 
 ```
 https://raw.githubusercontent.com/LestueTurmetie/a/main/z.m3u
 ```
 
 
+## Databáza
 
-## EPG
+Väčšina údajov o televíznych kanáloch pochádza zo zdroja [iptv-org/database](https://github.com/iptv-org/database) alebo z [IPTV CAT](https://iptvcat.com).
+Odkazy na streamovanie rádiových staníc sa zhromažďujú z [FM Stream](https://fmstream.org)
+Ak nájdete nejaké chyby, otvorte nový problém kliknutím [sem](https://github.com/LestueTurmetie/a/issues).
 
-The playlists already contain links to all guides, so players with support the `x-tvg-url` tag should load it automatically. Otherwise, you can choose one of the guides featured in the [iptv-org/epg](https://github.com/iptv-org/epg) repository.
+## Zdroje
 
-## Database
+Odkazy na ďalšie užitočné zdroje súvisiace s IPTV možno nájsť v zdroji [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv).
 
-Most TV channel data is taken from the [iptv-org/database](https://github.com/iptv-org/database) repository or from [IPTV CAT](https://iptvcat.com).
-Radio station streaming links are collected from [FM Stream](https://fmstream.org)
-If you find any errors please open a new issue, by clicking [here](https://github.com/LestueTurmetie/a/issues).
+## Diskusia
 
-## Resources
+Ak máte otázku alebo nápad, môžete ho uverejniť na karte [Diskusie](https://github.com/LestueTurmetie/a/discussions).
 
-Links to other useful IPTV-related resources can be found in the [iptv-org/awesome-iptv](https://github.com/iptv-org/awesome-iptv) repository.
+## Príspevky nových staníc
 
-## Discussions
+Pred odoslaním problému alebo odoslaním žiadosti o stiahnutie si prečítajte [Príručku prispievania](CONTRIBUTING.md).
 
-If you have a question or an idea, you can post it in the [Discussions](https://github.com/LestueTurmetie/a/discussions) tab.
+A ďakujeme všetkým, ktorí už prispeli!
 
-## Contribution
+### Prispievatelia
 
-Please make sure to read the [Contributing Guide](CONTRIBUTING.md) before sending an issue or making a pull request.
+Prispievateľmi do tohto úložiska sú vlastníci a akcionári AZ LestueMedia, ktorí majú právo konečného rozhodnutia o tom, ktoré kanály zadané používateľmi budú pridané.
 
-And thank you to everyone who has already contributed!
+## Legálne informácie
 
-### Contributors
+V tomto úložisku nie sú uložené žiadne video súbory. Úložisko jednoducho obsahuje používateľmi odoslané odkazy na verejne dostupné adresy URL video streamov, ktoré podľa našich najlepších vedomostí zámerne zverejnili držitelia autorských práv. Ak nejaké odkazy v týchto zoznamoch videí porušujú vaše práva ako držiteľa autorských práv, môžu byť odstránené odoslaním [žiadosti o stiahnutie](https://github.com/LestueTurmetie/a/pulls), otvorením [čísla](https ://github.com/LestueTurmetie/iptv/issues/new) A e-mail s dopytom na adresu [cobra@estates.ml] (mailto:cobra@estates.ml). Upozorňujeme však, že nemáme **žiadnu kontrolu** nad cieľom odkazu a samotné odstránenie odkazu zo zoznamu videí neodstráni jeho obsah z webu. Upozorňujeme, že prepojenie priamo neporušuje autorské práva, pretože na stránke poskytujúcej odkaz sa nevytvára žiadna kópia, a preto toto **nie je** oprávnený dôvod na odoslanie oznámenia DMCA na GitHub. Ak chcete tento obsah z webu odstrániť, mali by ste kontaktovať webového hostiteľa, ktorý obsah skutočne hostí (**nie** GitHub, ani správcov tohto úložiska).
 
-Contributors to this repository are the owners and shareholders of AZ LestueMedia, which have final decision rights of which user-submitted channels will be added.
-
-## Legal
-
-No video files are stored in this repository. The repository simply contains user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by sending a [pull request](https://github.com/LestueTurmetie/a/pulls), by opening an [issue](https://github.com/LestueTurmetie/iptv/issues/new) AND an inquiry email to [cobra@estates.ml](mailto:cobra@estates.ml). However, note that we have **no control** over the destination of the link, and just removing the link from the playlist will not remove its contents from the web. Note that linking does not directly infringe copyright because no copy is made on the site providing the link, and thus this is **not** a valid reason to send a DMCA notice to GitHub. To remove this content from the web, you should contact the web host that's actually hosting the content (**not** GitHub, nor the maintainers of this repository).
-
-## License
+## Licencie
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](LICENSE)
