@@ -69,7 +69,6 @@ And thank you to everyone who has already contributed!
 ### Contributors
 
 Contributors to this repository are the owners and shareholders of AZ LestueMedia, which have final decision rights of which user-submitted channels will be added.
-<img src="https://opencollective.com/iptv-org/contributors.svg?width=890" /></a>
 
 ## Legal
 
