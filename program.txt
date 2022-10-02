@@ -1,0 +1,112 @@
+Televízne stanice - Televíziós csatornák - TV Stations
+
+1. RTVS Jednotka HD
+2. RTVS Dvojka HD
+3. RTVS Trojka HD
+4. RTVS 24 HD
+5. RTVS Sport HD
+6. RTVS Parlamentné Vysielanie HD
+7. Press NRSR Parlament HD
+8. JOJ HD
+9. JOJ Plus HD
+10. WAU HD
+11. TA3 HD
+12. Senzi HD
+13. TV LUX HD
+14. CS Film
+15. CT 1 FHD
+16. CT 2 FHD
+17. CT 24 FHD
+18. CT Sport FHD
+19. Canal+ Sport 1 FHD
+20. Canal+ Sport 2 FHD
+21. Canal+ Sport 3 FHD
+22. Canal+ Sport 4 FHD
+23. Canal+ Sport 5 FHD
+24. Canal+ Sport 6 FHD
+25. Canal+ Sport 7 FHD
+26. Nova HD
+27. Nova International HD
+28. Nova Gold HD
+29. Nova Cinema HD
+30. Nova Action HD
+31. LocAll Tornaľa
+32. TV Nové Zámky
+33. TV Reduta - Spišská Nová Ves
+34. TV Ružinov FHD
+35. Euronews ENGLISH
+36. Euronews RUSSIAN
+37. Euronews GERMAN
+38. Euronews HUNGARIAN
+39. Euronews ITALIAN
+40. Euronews PORTUGESE
+41. CNBC Europe SD
+42. CNN International FHD
+43. NASA TV FHD
+44. Al Jazeera English HD
+45. Bahrain International HD
+46. Rossiya 24
+47. Pervyj Kanal Eurasia
+48. RTR Planeta HD
+49. 1+1 UA HD
+50. BELSAT NEWS HD
+51. KCTV North Korea SD
+52. 3ABN VATICAN HD
+53. M1 Europe HD
+54. AMC HU HD
+55. RTL Klub HD
+56. RTL II HD
+57. Cool TV HD
+58. RTL Gold
+59. Film Plusz HD
+60. RTL + HD
+61. Sorozat +
+62. TV7 Békéscsaba
+63. Füzesabony TV
+64. Ózdi Városi Televízió VTV
+
+---
+
+Rádiá - Rádió Csatornák - Radio Stations
+
+65. / 1. SRo 1 - Rádio Slovensko
+66. / 2. SRo 2 - Rádio Regina BA Západ
+67. / 3. SRo 2 - Rádio Regina BB Stred
+68. / 4. SRo 2 - Rádio Regina KE Východ
+69. / 5. SRo 3 - Rádio Devín
+70. / 6. SRo 4 - Rádio_FM
+71. / 7. SRo 5 - Patria Rádió
+72. / 8. SRo 6 - Radio Slovakia International
+73. / 9. SRo 7 - Rádio Pyramída
+74. / 10. SRo 8 - Rádio Litera
+75. / 11. SRo 9 - Rádio Junior
+76. / 12. Fun Rádio
+77. / 13. Európa 2
+78. / 14. Rádio Expres
+79. /15. Rádio Melody
+80. / 16. Rádio Košice
+81. / 17. Bratislavské rádio
+82. / 18. BB FM - Banskobystrické rádio
+83. / 19. MR 1 - Kossuth rádió
+84. / 20. MR 2 - Petőfi rádió
+85. / 21. MR 3 - Bartók rádió
+86. / 22. Rádió 1 (HU)
+87. / 23. Karc FM Budapest
+88. / 24. Retro Rádió
+89. / 25. ČRo 1 - Radiožurnál
+90. / 26. ČRo 2 - Dvojka
+91. / 27. ČRo 3 - Vltava
+92. / 28. ČRo 4 - Plus
+93. / 29. ČRo Wave
+94. / 30. Rádio Impuls (CZ)
+95. / 31. Frekvence 1 CZ
+96. / 32. OE 1
+97. / 33. OE 3
+98. / 34. Kronehit
+99. / 35. Antenne Steiermark
+100. / 36. BBC World Service (Non-UK)
+101. / 37. Vesti FM RUS
+102. / 38. Radio Mayak RUS
+103. / 39. Vesti FM RUS (Retranslaciya Kaliningrad)
+104. / 40. Voice of America - South Balkan
+105. / 41. Voice of America - Washington DC
