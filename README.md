@@ -37,11 +37,7 @@ Playlists will be soon expanded, due to high user request.
 
 Playlist includes all channels from the main package bundle of AZ LestueMedia except adult channels, which are prohibited by law in San Brusslav.
 
-```
-https://github.com/LesteTurmetie/a/blob/main/z.m3u
-```
-
-And here is the version to copy to your player:
+Here is the version to copy to your player:
 
 ```
 https://raw.githubusercontent.com/LestueTurmetie/a/main/z.m3u
