@@ -6,11 +6,11 @@ Streaming platform of many TV and Radio stations from all over the world to San 
 
 ## Table of contents
 
-List of TV and Radio channels (multilingual - SK/HU/EN) [here - .DOCX](https://github.com/LestueTurmetie/a/program.docx)
+List of TV and Radio channels (multilingual - SK/HU/EN) [here - .DOCX](https://github.com/LestueTurmetie/a/main/program.docx)
 
-List of TV and Radio channels (multilingual - SK/HU/EN) [here - .PDF](https://github.com/LestueTurmetie/a/program.pdf)
+List of TV and Radio channels (multilingual - SK/HU/EN) [here - .PDF](https://github.com/LestueTurmetie/a/main/program.pdf)
 
-List of TV and Radio channels (multilingual - SK/HU/EN) [here - .TXT](https://github.com/LestueTurmetie/a/program.txt)
+List of TV and Radio channels (multilingual - SK/HU/EN) [here - .TXT](https://github.com/LestueTurmetie/a/main/program.txt)
 
 - 🚀 [How to use?](#how-to-use)
 - 📺 [Playlists](#playlists)
@@ -37,7 +37,7 @@ Playlists will be soon expanded, due to high user request.
 Playlist includes all channels from the main package bundle of AZ LestueMedia except adult channels, which are prohibited by law in San Brusslav.
 
 ```
-https://github.com/LesteTurmetie/a/z.m3u
+https://github.com/LesteTurmetie/a/main/z.m3u
 ```
 
 And here is the version to copy to your player:
