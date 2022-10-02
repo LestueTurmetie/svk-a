@@ -6,6 +6,10 @@ Streaming platform of many TV and Radio stations from all over the world to San 
 
 ## Table of contents
 
+List of TV and Radio channels (multilingual - SK/HU/EN) [here - .DOCX](https://github.com/LestueTurmetie/a/program.docx)
+List of TV and Radio channels (multilingual - SK/HU/EN) [here - .PDF](https://github.com/LestueTurmetie/a/program.pdf)
+List of TV and Radio channels (multilingual - SK/HU/EN) [here - .TXT](https://github.com/LestueTurmetie/a/program.txt)
+
 - 🚀 [How to use?](#how-to-use)
 - 📺 [Playlists](#playlists)
 - 🗄 [Database](#database)
